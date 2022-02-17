@@ -1,10 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using LanguageExt;
 using NeverendingTeaShop.Application.Interfaces.Queries;
 using NeverendingTeaShop.Application.Interfaces.Repositories;
 using NeverendingTeaShop.Domain;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace NeverendingTeaShop.Application.Teas.Queries
 {
