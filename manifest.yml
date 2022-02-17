@@ -1,3 +1,4 @@
+---
 applications:
   - name: test22      
     path: src/NeverendingTeaShop.API
