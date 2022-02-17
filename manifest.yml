@@ -1,5 +1,5 @@
 applications:
-  - name: NeverendingTeaShopAPI
+  - name: test22
       #path: src/NeverendingTeaShop.API/bin/Release/netcoreapp3.0/publish
       path: src/NeverendingTeaShop.API/bin/Release/netcoreapp3.1
     memory: 1G
