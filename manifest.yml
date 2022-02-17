@@ -1,7 +1,7 @@
 ---
 applications:
   - name: test22      
-    path: ./src/NeverendingTeaShop.API
+    path: ./src/NeverendingTeaShop.API/bin/Release/netcoreapp3.1
     memory: 1G
     disk_quota: 512M
     env:
