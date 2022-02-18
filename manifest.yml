@@ -1,4 +1,3 @@
----
 applications:
   - name: test22      
     path: ./src/NeverendingTeaShop.API/bin/Release/netcoreapp3.1
